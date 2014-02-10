@@ -1,0 +1,19 @@
+## Interface: 50400
+## Title: Baggins Search Command
+## Author: shkm
+## Notes: Adds a slash command to Baggins Search.
+## Dependencies: Baggins, Baggins_Search
+
+libs\LibStub\LibStub.lua
+libs\AceAddon-3.0\AceAddon-3.0.xml
+libs\AceDB-3.0\AceDB-3.0.xml
+libs\AceConsole-3.0\AceConsole-3.0.xml
+libs\AceLocale-3.0\AceLocale-3.0.xml
+libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\AceEvent-3.0\AceEvent-3.0.xml
+libs\AceConfig-3.0\AceConfig-3.0.xml
+libs\AceGUI-3.0\AceGUI-3.0.xml
+
+core.lua
+config.lua
